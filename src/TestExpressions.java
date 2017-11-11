@@ -6,14 +6,14 @@
 
 /*
  	Your predicted values for the expressions
-	1. 8
-	2. 8
-	3. 3
-	4. 4
-	5. 2
-	6. 11
-	7. "2 + 234"
-	8. "7 2 + 2"
+	1. 8 -> Correct
+	2. 8 -> Incorrect
+	3. 3 -> Incorrect
+	4. 4 -> Correct
+	5. 2 -> Correct
+	6. 11 -> Correct
+	7. "2 + 234" -> Correct
+	8. "7 2 + 2" -> Correct
  
  	After testing the expressions in the main method, indicate above if your predictions were correct.
 */
