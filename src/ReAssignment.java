@@ -23,9 +23,11 @@ public class ReAssignment {
 		a = a + 1;
 		b = b - 1;
 		c = c + a;
+		b = c % a;
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+		System.out.println(b);
 
 	}
 
